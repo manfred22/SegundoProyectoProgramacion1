@@ -18,5 +18,6 @@ public class Principal {
         // TODO code application logic here
     //Intastancia de la clase Menu
         Menu m = new Menu();
+        m.menuBuscaminas();
     }//Fin del main{}
 }//Fin de la clase {}
