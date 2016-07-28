@@ -6,7 +6,7 @@
 //Paquetes
 package Buscaminas;
 //Importes
-
+import Estructura.*;
 import javax.swing.JOptionPane;
 
 /**
@@ -38,7 +38,10 @@ public class Menu extends Object {
         //Caso 1
         case 1:{
         opcion=1;
-        System.out.println("Jugar");
+        System.out.println("En un momento iniciara su partida");
+        Tablero m = new Tablero();
+        m.datos();
+        m.mostablero();
         break;
         }//Cierre del caso 1
         //Caso 2
