@@ -6,10 +6,15 @@
 //Paquetes
 package Estructura;
 //Importes
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+import java.util.Scanner;
+import javax.swing.JOptionPane;
 /**
  **
  ** @author Manfred Martineli Rojas
  ** @date 2016-07-24
  **/
 public class Buscaminas {
-}//Fin de la clase Busacaminas {}
+}

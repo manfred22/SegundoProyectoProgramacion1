@@ -5,6 +5,9 @@
  */
 //Paquetes
 package Buscaminas;
+
+import Estructura.Menu;
+
 /**
  **
  ** @author Manfred Martineli Rojas
@@ -18,6 +21,6 @@ public class Principal {
         // TODO code application logic here
     //Intastancia de la clase Menu
         Menu m = new Menu();
-        m.menuBuscaminas();
+        m.Menu();
     }//Fin del main{}
 }//Fin de la clase {}
