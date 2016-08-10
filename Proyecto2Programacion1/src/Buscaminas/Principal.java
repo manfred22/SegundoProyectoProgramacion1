@@ -6,8 +6,6 @@
 //Paquetes
 package Buscaminas;
 
-import Estructura.Menu;
-
 /**
  **
  ** @author Manfred Martineli Rojas
