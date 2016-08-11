@@ -15,10 +15,11 @@ public class Principal {
     /**
      * @param args the command line arguments
      **/
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         // TODO code application logic here
+    // throws Exception del metodo try catch finally del menu
     //Intastancia de la clase Menu
         Menu m = new Menu();
-        m.Menu();
-    }//Fin del main{}
+        m.menu();
+    }//Fin del maain{}
 }//Fin de la clase {}
